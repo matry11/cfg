@@ -1,0 +1,86 @@
+# Compiled source #
+###################
+**/*.com
+**/*.class
+**/*.dll
+**/*.exe
+**/*.o
+**/*.so
+**/*.py[cod]
+**/*.__pycache__/
+
+# Packages #
+############
+**/*.7z
+**/*.dmg
+**/*.gz
+**/*.iso
+**/*.jar
+**/*.rar
+**/*.tar
+**/*.zip
+**/*.gz
+**/*.gzip
+**/*.bz
+**/*.bzip
+**/*.bzip2
+**/*.lzma
+**/*.xz
+**/*.xar
+
+**/*.dmg
+**/*.deb
+**/*.rpm
+**/*.msi
+
+# Logs and databases #
+######################
+**/*.log
+**/*.sql
+**/*.sqlite
+**/*.gpr
+**/*.i64
+**/*.kbdx
+
+# Media extensions #
+####################
+**/*.jpg
+**/*.gif
+**/*.png
+**/*.svg
+**/*.ico
+**/*.wmv
+**/*.mpg
+**/*.mpeg
+**/*.mp4
+**/*.mov
+**/*.flv
+**/*.avi
+**/*.ogv
+**/*.ogg
+**/*.webm
+**/*.wav
+**/*.mp3
+**/*.wma
+
+# Application formats #
+#######################
+**/*.orig
+**/*.project
+**/*.settings
+**/*.idea
+**/*.swp
+**/*.swo
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Thrash*
+
+# Misc. #
+#########
+**/*.bak
+**/*.bkp
+**/*.
