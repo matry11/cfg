@@ -1,5 +1,5 @@
 # Organization Rationale
-## "**symlinks-and-git-submodules**"-based way for managing all personal and custom environments in one place (so I don't have to go bananas organizing/versioning scripts anymore)
+## "**symlinks-and-git-submodules**"-based way for managing all personal configs and custom environments in one place (without script glue)
 ____
 ```
 .
