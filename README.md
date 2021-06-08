@@ -1,11 +1,5 @@
 # Organization Rationale
 ## "**symlinks-and-git-submodules**"-based way for managing all personal and custom environments in one place (so I don't have to go bananas organizing/versioning scripts anymore)
-
-<br/>
-"Virtual" directory structure. Top-Level. <br/>
-Stuff here must keep the standard below since it's symlinked and **you shouldn't be messing around there anyways** :). <br/>
-Files inside /local or /shared are not versioned at all. <br/>
-
 ____
 ```
 .
