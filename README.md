@@ -21,15 +21,16 @@ ____
 |      ├── xterm
 |      └── lxterm
 │   └── emacs
-|       └── init.el
+|      ├── lisp 	  # functions, hook-functions, plugins ..
+|      └── init.el
 ├── local (not versioned)
-|   ├── bin
-|   ├── src
-│      ├── dist
-│      └── plugins
+|   ├── bin           # binaries/apps i use everyday
+|   ├── src           # source-code of my own
+│      ├── dist       # source-code of my own (builds)
+│      └── plugins    # third-party plugins
 │   └── tools
-│      └── scripts
+│      └── scripts    # scripts i use everyday
 ├── shared (not versioned)
-|   ├── backup
-│   └── misc
+|   ├── backup        # archived version of "my desktop"
+│   └── misc          # the live version of "my desktop"
 ```
